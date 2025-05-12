@@ -26,7 +26,7 @@
 
 - 🔹 **CodeChef** – 4⭐ | Max Rating: 1813 (Top 2%)
 - 🔹 **LeetCode** – Max Rating: 1996 (Top 3%)
-- 🔹 **Guinness World Record** Participant – 1,000+ member dance performance
+- 🔹 **Guinness World Record** Participant – 5,000+ member dance performance
 
 ---
 
